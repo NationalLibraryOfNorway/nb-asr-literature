@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Norwegian ASR Literature Review</title>
+    <title>NB-ASR Literature Review</title>
     <link>https://github.com/NationalLibraryOfNorway/nb-asr-literature</link>
     <description>A curated collection of reading lists and discussions focused on building Norwegian Automatic Speech Recognition (ASR) systems, with emphasis on post-Whisper architectures and data curation strategies.</description>
     <language>en-us</language>
@@ -11,7 +11,14 @@
     <itunes:owner>
       <itunes:name>National Library of Norway</itunes:name>
     </itunes:owner>
-    <itunes:image href="https://raw.githubusercontent.com/NationalLibraryOfNorway/nb-asr-literature/main/audio/podcast-image.jpg"/>
+    <itunes:image href="https://raw.githubusercontent.com/NationalLibraryOfNorway/nb-asr-literature/main/audio/podcast-cover-3000.jpg"/>
+    <image>
+      <url>https://raw.githubusercontent.com/NationalLibraryOfNorway/nb-asr-literature/main/audio/podcast-cover-3000.jpg</url>
+      <title>NB-ASR Literature Review</title>
+      <link>https://github.com/NationalLibraryOfNorway/nb-asr-literature</link>
+      <width>3000</width>
+      <height>3000</height>
+    </image>
     <itunes:category text="Technology"/>
     <itunes:category text="Science"/>
     <itunes:explicit>no</itunes:explicit>

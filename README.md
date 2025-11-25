@@ -1,4 +1,4 @@
-# Norwegian ASR Literature Review
+# NB-ASR Literature Review
 
 <p align="left">
   <img src="logo.svg" alt="NB-ASR literature review logo" width="360">
