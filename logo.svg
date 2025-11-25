@@ -1,0 +1,40 @@
+<svg width="360" height="120" viewBox="0 0 360 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">NB-ASR Literature Review Logo</title>
+  <desc id="desc">Logo combining a waveform, open book, and the NB-ASR wordmark in Norwegian flag colors.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#0b1020"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#e63946"/>
+      <stop offset="100%" stop-color="#2a6fdb"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="360" height="120" fill="url(#bg)" rx="12"/>
+
+  <!-- book block -->
+  <g transform="translate(40 24)">
+    <rect x="0" y="8" width="120" height="70" rx="8" fill="#0f213f" stroke="#2a6fdb" stroke-width="2"/>
+    <path d="M14 16 L60 6 L60 76 L14 86 Z" fill="#121f35" stroke="#e63946" stroke-width="1.5" opacity="0.9"/>
+    <path d="M60 6 L106 16 L106 86 L60 76 Z" fill="#0f1628" stroke="#2a6fdb" stroke-width="1.5" opacity="0.9"/>
+    <line x1="60" y1="8" x2="60" y2="78" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" opacity="0.8"/>
+    <path d="M22 30 Q40 28 58 32" stroke="#ffffff" stroke-width="1.2" fill="none" opacity="0.7"/>
+    <path d="M62 32 Q80 28 98 30" stroke="#ffffff" stroke-width="1.2" fill="none" opacity="0.6"/>
+  </g>
+
+  <!-- waveform -->
+  <path d="M170 75 C180 45 195 105 210 72 C225 42 240 102 255 68 C270 38 285 98 300 70"
+        fill="none" stroke="url(#wave)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+  <path d="M170 75 C180 55 195 95 210 70 C225 50 240 90 255 66 C270 50 285 86 300 70"
+        fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.6"/>
+
+  <!-- wordmark -->
+  <text x="170" y="46" fill="#ffffff" font-family="Montserrat, 'Segoe UI', sans-serif" font-size="24" font-weight="700" letter-spacing="1">
+    NB-ASR
+  </text>
+  <text x="170" y="62" fill="#9fb6e3" font-family="Montserrat, 'Segoe UI', sans-serif" font-size="12" font-weight="500">
+    literature review
+  </text>
+</svg>

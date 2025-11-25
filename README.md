@@ -1,5 +1,9 @@
 # Norwegian ASR Literature Review
 
+<p align="left">
+  <img src="logo.svg" alt="NB-ASR literature review logo" width="360">
+</p>
+
 A curated collection of reading lists focused on building Norwegian Automatic Speech Recognition (ASR) systems, with emphasis on post-Whisper architectures and data curation strategies.
 
 ## Reading Lists
