@@ -24,7 +24,7 @@ A reading list focused on post-Whisper architectures, with Parakeet-style models
 
 ## Podcast Access
 
-- RSS feed: https://nationallibraryofnorway.github.io/nb-asr-literature/podcast.xml
+- RSS feed (raw XML): https://raw.githubusercontent.com/NationalLibraryOfNorway/nb-asr-literature/refs/heads/main/podcast.xml
 
 ### iPhone (Apple Podcasts)
 1) Copy the RSS feed URL above.  
