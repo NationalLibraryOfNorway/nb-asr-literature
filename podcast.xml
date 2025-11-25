@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Norwegian ASR Literature Review</title>
+    <link>https://github.com/NationalLibraryOfNorway/nb-asr-literature</link>
+    <description>A curated collection of reading lists and discussions focused on building Norwegian Automatic Speech Recognition (ASR) systems, with emphasis on post-Whisper architectures and data curation strategies.</description>
+    <language>en-us</language>
+    <copyright>Copyright 2025 National Library of Norway</copyright>
+    <itunes:author>National Library of Norway</itunes:author>
+    <itunes:summary>A curated collection of reading lists and discussions focused on building Norwegian Automatic Speech Recognition (ASR) systems.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>National Library of Norway</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://github.com/NationalLibraryOfNorway/nb-asr-literature/raw/main/audio/podcast-image.jpg"/>
+    <itunes:category text="Technology"/>
+    <itunes:category text="Science"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>Whisper: Robust Speech Recognition via Large-Scale Weak Supervision (Coming soon...)</title>
+      <link>https://nationallibraryofnorway.github.io/nb-asr-literature/audio/coming-soon-2212.04356.mp3</link>
+      <description>Whisper: Robust Speech Recognition via Large-Scale Weak Supervision (arXiv:2212.04356) - Radford et al., 2022 - Coming soon...</description>
+      <guid isPermaLink="false">coming-soon-2212.04356</guid>
+      <pubDate>Tue, 25 Nov 2025 13:11:15 +0000</pubDate>
+      <itunes:title>Whisper: Robust Speech Recognition via Large-Scale Weak Supervision (Coming soon...)</itunes:title>
+      <itunes:author>Radford et al., 2022</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>2212.04356</itunes:episode>
+    </item>
+
+    <item>
+      <title>Fast Conformer with Linearly Scalable Attention for Efficient Speech Recognition</title>
+      <link>https://nationallibraryofnorway.github.io/nb-asr-literature/audio/Fast_Conformer_Revolutionizes_Scaling_ASR.mp3</link>
+      <description>Fast Conformer with Linearly Scalable Attention for Efficient Speech Recognition (arXiv:2305.05084) - Shi et al., 2023</description>
+      <enclosure url="https://nationallibraryofnorway.github.io/nb-asr-literature/audio/Fast_Conformer_Revolutionizes_Scaling_ASR.mp3" length="13626441" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://nationallibraryofnorway.github.io/nb-asr-literature/audio/Fast_Conformer_Revolutionizes_Scaling_ASR.mp3</guid>
+      <pubDate>Tue, 25 Nov 2025 13:11:15 +0000</pubDate>
+      <itunes:title>Fast Conformer with Linearly Scalable Attention for Efficient Speech Recognition</itunes:title>
+      <itunes:author>Shi et al., 2023</itunes:author>
+      <itunes:duration>00:14:11</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>2305.05084</itunes:episode>
+    </item>
+
+    <item>
+      <title>Efficient Sequence Transduction by Jointly Predicting Tokens and Durations (TDT)</title>
+      <link>https://nationallibraryofnorway.github.io/nb-asr-literature/audio/TDT_Token_Duration_Transducer_Solves_ASR_Latency.mp3</link>
+      <description>Efficient Sequence Transduction by Jointly Predicting Tokens and Durations (TDT) (arXiv:2304.06795) - Zhang et al., 2023</description>
+      <enclosure url="https://nationallibraryofnorway.github.io/nb-asr-literature/audio/TDT_Token_Duration_Transducer_Solves_ASR_Latency.mp3" length="10859551" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://nationallibraryofnorway.github.io/nb-asr-literature/audio/TDT_Token_Duration_Transducer_Solves_ASR_Latency.mp3</guid>
+      <pubDate>Tue, 25 Nov 2025 13:11:15 +0000</pubDate>
+      <itunes:title>Efficient Sequence Transduction by Jointly Predicting Tokens and Durations (TDT)</itunes:title>
+      <itunes:author>Zhang et al., 2023</itunes:author>
+      <itunes:duration>00:11:18</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>2304.06795</itunes:episode>
+    </item>
+
+    <item>
+      <title>Canary-1B-v2 &amp; Parakeet-TDT-0.6B-v3: Efficient and High-Performance Models for Multilingual ASR and AST</title>
+      <link>https://nationallibraryofnorway.github.io/nb-asr-literature/audio/Building_Production_ASR_Faster_Better_Cheaper.mp3</link>
+      <description>Canary-1B-v2 &amp; Parakeet-TDT-0.6B-v3: Efficient and High-Performance Models for Multilingual ASR and AST (arXiv:2509.14128) - Sekoyan et al., 2025</description>
+      <enclosure url="https://nationallibraryofnorway.github.io/nb-asr-literature/audio/Building_Production_ASR_Faster_Better_Cheaper.mp3" length="13726751" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://nationallibraryofnorway.github.io/nb-asr-literature/audio/Building_Production_ASR_Faster_Better_Cheaper.mp3</guid>
+      <pubDate>Tue, 25 Nov 2025 13:11:15 +0000</pubDate>
+      <itunes:title>Canary-1B-v2 &amp; Parakeet-TDT-0.6B-v3: Efficient and High-Performance Models for Multilingual ASR and AST</itunes:title>
+      <itunes:author>Sekoyan et al., 2025</itunes:author>
+      <itunes:duration>00:14:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>2509.14128</itunes:episode>
+    </item>
+
+    <item>
+      <title>Scaling Speech Technology to 1,000+ Languages (Massively Multilingual Speech, MMS)</title>
+      <link>https://nationallibraryofnorway.github.io/nb-asr-literature/audio/MMS_Shatters_ASR_Language_Barrier_Outperforming_Whisper.mp3</link>
+      <description>Scaling Speech Technology to 1,000+ Languages (Massively Multilingual Speech, MMS) (arXiv:2305.13516) - Pratap et al., 2023</description>
+      <enclosure url="https://nationallibraryofnorway.github.io/nb-asr-literature/audio/MMS_Shatters_ASR_Language_Barrier_Outperforming_Whisper.mp3" length="10498016" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://nationallibraryofnorway.github.io/nb-asr-literature/audio/MMS_Shatters_ASR_Language_Barrier_Outperforming_Whisper.mp3</guid>
+      <pubDate>Tue, 25 Nov 2025 13:11:15 +0000</pubDate>
+      <itunes:title>Scaling Speech Technology to 1,000+ Languages (Massively Multilingual Speech, MMS)</itunes:title>
+      <itunes:author>Pratap et al., 2023</itunes:author>
+      <itunes:duration>00:10:56</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>2305.13516</itunes:episode>
+    </item>
+
+    <item>
+      <title>Automatic Speech Recognition in the Modern Era: Architectures, Training, and Evaluation (Coming soon...)</title>
+      <link>https://nationallibraryofnorway.github.io/nb-asr-literature/audio/coming-soon-2510.12827.mp3</link>
+      <description>Automatic Speech Recognition in the Modern Era: Architectures, Training, and Evaluation (arXiv:2510.12827) - Nayem et al., 2025 - Coming soon...</description>
+      <guid isPermaLink="false">coming-soon-2510.12827</guid>
+      <pubDate>Tue, 25 Nov 2025 13:11:15 +0000</pubDate>
+      <itunes:title>Automatic Speech Recognition in the Modern Era: Architectures, Training, and Evaluation (Coming soon...)</itunes:title>
+      <itunes:author>Nayem et al., 2025</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>2510.12827</itunes:episode>
+    </item>
+
+    <item>
+      <title>Open ASR Leaderboard: Towards Reproducible and Transparent Multilingual and Long-Form Speech Recognition Evaluation (Coming soon...)</title>
+      <link>https://nationallibraryofnorway.github.io/nb-asr-literature/audio/coming-soon-2510.06961.mp3</link>
+      <description>Open ASR Leaderboard: Towards Reproducible and Transparent Multilingual and Long-Form Speech Recognition Evaluation (arXiv:2510.06961) - Gandhi et al., 2025 - Coming soon...</description>
+      <guid isPermaLink="false">coming-soon-2510.06961</guid>
+      <pubDate>Tue, 25 Nov 2025 13:11:15 +0000</pubDate>
+      <itunes:title>Open ASR Leaderboard: Towards Reproducible and Transparent Multilingual and Long-Form Speech Recognition Evaluation (Coming soon...)</itunes:title>
+      <itunes:author>Gandhi et al., 2025</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>2510.06961</itunes:episode>
+    </item>
+
+    <item>
+      <title>Seed-ASR: Understanding Diverse Speech and Contexts with LLM-based Speech Recognition</title>
+      <link>https://nationallibraryofnorway.github.io/nb-asr-literature/audio/Norwegian_ASR_Strategy_Seed-ASR_Analysis.mp3</link>
+      <description>Seed-ASR: Understanding Diverse Speech and Contexts with LLM-based Speech Recognition (arXiv:2407.04675) - Shao et al., 2024</description>
+      <enclosure url="https://nationallibraryofnorway.github.io/nb-asr-literature/audio/Norwegian_ASR_Strategy_Seed-ASR_Analysis.mp3" length="12648416" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://nationallibraryofnorway.github.io/nb-asr-literature/audio/Norwegian_ASR_Strategy_Seed-ASR_Analysis.mp3</guid>
+      <pubDate>Tue, 25 Nov 2025 13:11:15 +0000</pubDate>
+      <itunes:title>Seed-ASR: Understanding Diverse Speech and Contexts with LLM-based Speech Recognition</itunes:title>
+      <itunes:author>Shao et al., 2024</itunes:author>
+      <itunes:duration>00:13:10</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>2407.04675</itunes:episode>
+    </item>
+
+    <item>
+      <title>Qwen2-Audio Technical Report (Coming soon...)</title>
+      <link>https://nationallibraryofnorway.github.io/nb-asr-literature/audio/coming-soon-2407.10759.mp3</link>
+      <description>Qwen2-Audio Technical Report (arXiv:2407.10759) - Yang et al., 2024 - Coming soon...</description>
+      <guid isPermaLink="false">coming-soon-2407.10759</guid>
+      <pubDate>Tue, 25 Nov 2025 13:11:15 +0000</pubDate>
+      <itunes:title>Qwen2-Audio Technical Report (Coming soon...)</itunes:title>
+      <itunes:author>Yang et al., 2024</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>2407.10759</itunes:episode>
+    </item>
+
+    <item>
+      <title>A Survey on Speech Large Language Models for Understanding</title>
+      <link>https://nationallibraryofnorway.github.io/nb-asr-literature/audio/Speech_LLMs_Understanding_Architecture_and_Bottlenecks.mp3</link>
+      <description>A Survey on Speech Large Language Models for Understanding (arXiv:2410.18908) - Peng et al., 2024-2025</description>
+      <enclosure url="https://nationallibraryofnorway.github.io/nb-asr-literature/audio/Speech_LLMs_Understanding_Architecture_and_Bottlenecks.mp3" length="14349928" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://nationallibraryofnorway.github.io/nb-asr-literature/audio/Speech_LLMs_Understanding_Architecture_and_Bottlenecks.mp3</guid>
+      <pubDate>Tue, 25 Nov 2025 13:11:15 +0000</pubDate>
+      <itunes:title>A Survey on Speech Large Language Models for Understanding</itunes:title>
+      <itunes:author>Peng et al., 2024-2025</itunes:author>
+      <itunes:duration>00:14:56</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>2410.18908</itunes:episode>
+    </item>
+
+    <item>
+      <title>Anatomy of Industrial-Scale Multilingual ASR (Universal-1)</title>
+      <link>https://nationallibraryofnorway.github.io/nb-asr-literature/audio/ASR_Breakthrough_Six_Hundred_Eighty_Thousand_Hours.mp3</link>
+      <description>Anatomy of Industrial-Scale Multilingual ASR (Universal-1) (arXiv:2404.09841) - Ramirez et al., 2024</description>
+      <enclosure url="https://nationallibraryofnorway.github.io/nb-asr-literature/audio/ASR_Breakthrough_Six_Hundred_Eighty_Thousand_Hours.mp3" length="11947917" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://nationallibraryofnorway.github.io/nb-asr-literature/audio/ASR_Breakthrough_Six_Hundred_Eighty_Thousand_Hours.mp3</guid>
+      <pubDate>Tue, 25 Nov 2025 13:11:15 +0000</pubDate>
+      <itunes:title>Anatomy of Industrial-Scale Multilingual ASR (Universal-1)</itunes:title>
+      <itunes:author>Ramirez et al., 2024</itunes:author>
+      <itunes:duration>00:12:26</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>2404.09841</itunes:episode>
+    </item>
+
+    <item>
+      <title>Granary: Speech Recognition and Translation Dataset in 25 European Languages (Coming soon...)</title>
+      <link>https://nationallibraryofnorway.github.io/nb-asr-literature/audio/coming-soon-2505.13404.mp3</link>
+      <description>Granary: Speech Recognition and Translation Dataset in 25 European Languages (arXiv:2505.13404) - Koluguri et al., 2025 - Coming soon...</description>
+      <guid isPermaLink="false">coming-soon-2505.13404</guid>
+      <pubDate>Tue, 25 Nov 2025 13:11:15 +0000</pubDate>
+      <itunes:title>Granary: Speech Recognition and Translation Dataset in 25 European Languages (Coming soon...)</itunes:title>
+      <itunes:author>Koluguri et al., 2025</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>2505.13404</itunes:episode>
+    </item>
+
+    <item>
+      <title>MOSEL: 950,000 Hours of Speech Data for Open-Source Speech Foundation Model Training on EU Languages</title>
+      <link>https://nationallibraryofnorway.github.io/nb-asr-literature/audio/MOSEL_Dataset_Solves_Open_Source_AI_Compliance.mp3</link>
+      <description>MOSEL: 950,000 Hours of Speech Data for Open-Source Speech Foundation Model Training on EU Languages (arXiv:2410.01036) - Gaido et al., 2024</description>
+      <enclosure url="https://nationallibraryofnorway.github.io/nb-asr-literature/audio/MOSEL_Dataset_Solves_Open_Source_AI_Compliance.mp3" length="13335123" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://nationallibraryofnorway.github.io/nb-asr-literature/audio/MOSEL_Dataset_Solves_Open_Source_AI_Compliance.mp3</guid>
+      <pubDate>Tue, 25 Nov 2025 13:11:15 +0000</pubDate>
+      <itunes:title>MOSEL: 950,000 Hours of Speech Data for Open-Source Speech Foundation Model Training on EU Languages</itunes:title>
+      <itunes:author>Gaido et al., 2024</itunes:author>
+      <itunes:duration>00:13:53</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>2410.01036</itunes:episode>
+    </item>
+
+    <item>
+      <title>YODAS: YouTube-Oriented Dataset for Audio and Speech</title>
+      <link>https://nationallibraryofnorway.github.io/nb-asr-literature/audio/YODAS_A_Half_Million_Hour_Speech_Data_Blueprint.mp3</link>
+      <description>YODAS: YouTube-Oriented Dataset for Audio and Speech (arXiv:2406.00899) - Li et al., 2024</description>
+      <enclosure url="https://nationallibraryofnorway.github.io/nb-asr-literature/audio/YODAS_A_Half_Million_Hour_Speech_Data_Blueprint.mp3" length="12019806" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://nationallibraryofnorway.github.io/nb-asr-literature/audio/YODAS_A_Half_Million_Hour_Speech_Data_Blueprint.mp3</guid>
+      <pubDate>Tue, 25 Nov 2025 13:11:15 +0000</pubDate>
+      <itunes:title>YODAS: YouTube-Oriented Dataset for Audio and Speech</itunes:title>
+      <itunes:author>Li et al., 2024</itunes:author>
+      <itunes:duration>00:12:31</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>2406.00899</itunes:episode>
+    </item>
+
+    <item>
+      <title>OWSM v4: Improving Open Whisper-Style Speech Models via Data Scaling and Cleaning</title>
+      <link>https://nationallibraryofnorway.github.io/nb-asr-literature/audio/Cleaning_Scripts_Beat_Whisper_Scaling_ASR_Data.mp3</link>
+      <description>OWSM v4: Improving Open Whisper-Style Speech Models via Data Scaling and Cleaning (arXiv:2506.00338) - Zhang et al., 2025</description>
+      <enclosure url="https://nationallibraryofnorway.github.io/nb-asr-literature/audio/Cleaning_Scripts_Beat_Whisper_Scaling_ASR_Data.mp3" length="13710451" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://nationallibraryofnorway.github.io/nb-asr-literature/audio/Cleaning_Scripts_Beat_Whisper_Scaling_ASR_Data.mp3</guid>
+      <pubDate>Tue, 25 Nov 2025 13:11:15 +0000</pubDate>
+      <itunes:title>OWSM v4: Improving Open Whisper-Style Speech Models via Data Scaling and Cleaning</itunes:title>
+      <itunes:author>Zhang et al., 2025</itunes:author>
+      <itunes:duration>00:14:16</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>2506.00338</itunes:episode>
+    </item>
+
+    <item>
+      <title>Learning from Flawed Data: Weakly Supervised Automatic Speech Recognition (OTC)</title>
+      <link>https://nationallibraryofnorway.github.io/nb-asr-literature/audio/Omni-temporal_Classification_Trains_ASR_On_Flawed_Data.mp3</link>
+      <description>Learning from Flawed Data: Weakly Supervised Automatic Speech Recognition (OTC) (arXiv:2309.15796) - Gao et al., 2023</description>
+      <enclosure url="https://nationallibraryofnorway.github.io/nb-asr-literature/audio/Omni-temporal_Classification_Trains_ASR_On_Flawed_Data.mp3" length="11104057" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://nationallibraryofnorway.github.io/nb-asr-literature/audio/Omni-temporal_Classification_Trains_ASR_On_Flawed_Data.mp3</guid>
+      <pubDate>Tue, 25 Nov 2025 13:11:15 +0000</pubDate>
+      <itunes:title>Learning from Flawed Data: Weakly Supervised Automatic Speech Recognition (OTC)</itunes:title>
+      <itunes:author>Gao et al., 2023</itunes:author>
+      <itunes:duration>00:11:33</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>2309.15796</itunes:episode>
+    </item>
+
+    <item>
+      <title>Bypass Temporal Classification: Weakly Supervised ASR with Imperfect Transcripts (BTC)</title>
+      <link>https://nationallibraryofnorway.github.io/nb-asr-literature/audio/Bypass_Temporal_Classification_Solves_Messy_ASR_Data.mp3</link>
+      <description>Bypass Temporal Classification: Weakly Supervised ASR with Imperfect Transcripts (BTC) (arXiv:2306.01031) - Gao et al., 2023</description>
+      <enclosure url="https://nationallibraryofnorway.github.io/nb-asr-literature/audio/Bypass_Temporal_Classification_Solves_Messy_ASR_Data.mp3" length="9278829" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://nationallibraryofnorway.github.io/nb-asr-literature/audio/Bypass_Temporal_Classification_Solves_Messy_ASR_Data.mp3</guid>
+      <pubDate>Tue, 25 Nov 2025 13:11:15 +0000</pubDate>
+      <itunes:title>Bypass Temporal Classification: Weakly Supervised ASR with Imperfect Transcripts (BTC)</itunes:title>
+      <itunes:author>Gao et al., 2023</itunes:author>
+      <itunes:duration>00:09:39</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>2306.01031</itunes:episode>
+    </item>
+
+    <item>
+      <title>Weakly Supervised Data Refinement and Flexible Sequence Compression for Efficient Thai LLM-based ASR (EThai-ASR) (Coming soon...)</title>
+      <link>https://nationallibraryofnorway.github.io/nb-asr-literature/audio/coming-soon-2505.22063.mp3</link>
+      <description>Weakly Supervised Data Refinement and Flexible Sequence Compression for Efficient Thai LLM-based ASR (EThai-ASR) (arXiv:2505.22063) - Shao et al., 2025 - Coming soon...</description>
+      <guid isPermaLink="false">coming-soon-2505.22063</guid>
+      <pubDate>Tue, 25 Nov 2025 13:11:15 +0000</pubDate>
+      <itunes:title>Weakly Supervised Data Refinement and Flexible Sequence Compression for Efficient Thai LLM-based ASR (EThai-ASR) (Coming soon...)</itunes:title>
+      <itunes:author>Shao et al., 2025</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>2505.22063</itunes:episode>
+    </item>
+
+    <item>
+      <title>uDistil-Whisper: Label-Free Data Filtering for Knowledge Distillation in Low-Data Regimes</title>
+      <link>https://nationallibraryofnorway.github.io/nb-asr-literature/audio/Distilling_Whisper_Models_Without_Labels_Gets_Better_ASR.mp3</link>
+      <description>uDistil-Whisper: Label-Free Data Filtering for Knowledge Distillation in Low-Data Regimes (arXiv:2407.01257) - Waheed et al., 2025</description>
+      <enclosure url="https://nationallibraryofnorway.github.io/nb-asr-literature/audio/Distilling_Whisper_Models_Without_Labels_Gets_Better_ASR.mp3" length="12457409" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://nationallibraryofnorway.github.io/nb-asr-literature/audio/Distilling_Whisper_Models_Without_Labels_Gets_Better_ASR.mp3</guid>
+      <pubDate>Tue, 25 Nov 2025 13:11:15 +0000</pubDate>
+      <itunes:title>uDistil-Whisper: Label-Free Data Filtering for Knowledge Distillation in Low-Data Regimes</itunes:title>
+      <itunes:author>Waheed et al., 2025</itunes:author>
+      <itunes:duration>00:12:58</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>2407.01257</itunes:episode>
+    </item>
+
+    <item>
+      <title>Data Quality Issues in Multilingual Speech Datasets: The Need for Sociolinguistic Awareness and Proactive Language Planning (Coming soon...)</title>
+      <link>https://nationallibraryofnorway.github.io/nb-asr-literature/audio/coming-soon-2506.17525.mp3</link>
+      <description>Data Quality Issues in Multilingual Speech Datasets: The Need for Sociolinguistic Awareness and Proactive Language Planning (arXiv:2506.17525) - Lau et al., 2025 - Coming soon...</description>
+      <guid isPermaLink="false">coming-soon-2506.17525</guid>
+      <pubDate>Tue, 25 Nov 2025 13:11:15 +0000</pubDate>
+      <itunes:title>Data Quality Issues in Multilingual Speech Datasets: The Need for Sociolinguistic Awareness and Proactive Language Planning (Coming soon...)</itunes:title>
+      <itunes:author>Lau et al., 2025</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>2506.17525</itunes:episode>
+    </item>
+
+  </channel>
+</rss>
